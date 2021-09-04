@@ -1,0 +1,13 @@
+.input-content {
+  margin-bottom: 30px;
+}
+
+.input-content h1 {
+  margin-bottom: 30px;
+}
+
+.input-content input {
+  width: 100%;
+  font-size: 30px;
+  padding: 5px 10px;
+}
